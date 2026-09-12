@@ -1,0 +1,7 @@
+Flask==3.0.3
+gunicorn==22.0.0
+mt5linux==0.1.7
+pandas==2.2.2
+pandas-ta==0.3.14b0
+pytz==2024.1
+numpy==1.26.4
